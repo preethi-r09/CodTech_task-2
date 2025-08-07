@@ -27,6 +27,11 @@ The app concept centers around a seamless user experience for browsing restauran
 #OUTPUT
 
 
+<img width="952" height="502" alt="Image" src="https://github.com/user-attachments/assets/9f76b0b2-6664-47b3-98f7-61b83a9237a6" />
+
+
+
+
 🛠️ TOOLS & TECHNOLOGIES
 
 
@@ -159,6 +164,10 @@ Step-by-step icons:
 
 #OUTPUT
 
+<img width="113" height="263" alt="Image" src="https://github.com/user-attachments/assets/fd6d24fe-4ec1-4cac-8035-b84c08ee7c9a" />
+
+
+
 
 🛍️ PRODUCT PAGE
 
@@ -230,6 +239,7 @@ Zoom feature for close-up view
 
 #OUTPUT
 
+<img width="113" height="317" alt="Image" src="https://github.com/user-attachments/assets/29b29962-a846-484d-a98a-82806d793c15" />
 
 
 🛒 YOUR CART PAGE
@@ -273,6 +283,13 @@ Apply Offers & Save More
 “FREEDROP – Free delivery on orders above ₹299”
 
 ✅ Apply Button with real-time validation
+
+
+#OUTPUT
+
+
+
+<img width="113" height="284" alt="Image" src="https://github.com/user-attachments/assets/0b32f04f-7e32-4673-bcd6-2e73f18c87a7" />
 
 
 👤 PROFILE SETTING PAGE
@@ -339,6 +356,13 @@ UPI ID: preethi@upi
 ❤️ Saved Dishes & Restaurants
 
 🔄 Reorder Button for previous meals
+
+
+#OUTPUT
+
+
+<img width="115" height="302" alt="Image" src="https://github.com/user-attachments/assets/8a40047e-970a-4905-808d-9556f27d964c" />
+
 
 ✅ OUTCOMES
 
