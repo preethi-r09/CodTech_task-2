@@ -1,5 +1,4 @@
-# CodTech_task-2
-CODTECH Internship Task
+CODTECH INTERNSHIP TASK 2
 
 COMPANY : CODETECH IT SOLUTIONS
 
@@ -14,10 +13,10 @@ DURATION :1 MONTH
 MENTOR : NEELA SANTOSH
 
 
-🍽️ Collaborative Design Workflow – Online Food Delivery App
+🍽️ COLLABORATIVE DESIGN WORKFLOW - Online Food Delivery App
 
 
-📌 Project Overview
+📌 PROJECT OVERVIEW
 
 
 This repository documents the collaborative design workflow for an Online Food Delivery App, created as part of the CODTECH Internship Program. The goal was to simulate a real-world team environment using Figma, focusing on collaboration, commenting, version control, and iterative design practices.
@@ -28,7 +27,7 @@ The app concept centers around a seamless user experience for browsing restauran
 #OUTPUT
 
 
-🛠️ Tools & Technologies
+🛠️ TOOLS & TECHNOLOGIES
 
 
 Figma – UI/UX design, prototyping, and collaboration
@@ -39,7 +38,7 @@ Google Docs – Design briefs and feedback logs
 
 
 
-👥 Team Collaboration Workflow
+👥 TEAM COLLABORATION WORKFLOW
 
 
 1. Project Setup in Figma
@@ -115,9 +114,10 @@ Interactive prototype was shared with stakeholders for usability testing.
 Feedback was collected via comments and incorporated into final revisions.
 
 
-🏠 Home Page
+🏠 HOME PAGE
 
 🏆 Featured Restaurants
+
 Section Title: Top Picks Near You
 
 Cards with restaurant logos, ratings, delivery time, and cuisine type
@@ -160,7 +160,7 @@ Step-by-step icons:
 #OUTPUT
 
 
-🛍️ Product Page
+🛍️ PRODUCT PAGE
 
 Perfect for spice lovers craving a quick bite
 
@@ -232,7 +232,7 @@ Zoom feature for close-up view
 
 
 
-🛒 Your Cart Page
+🛒 YOUR CART PAGE
 
 “Your Cravings, Ready to Roll!”
 
@@ -275,7 +275,7 @@ Apply Offers & Save More
 ✅ Apply Button with real-time validation
 
 
-👤 Profile Settings Page
+👤 PROFILE SETTING PAGE
 
 
 “Your Profile, Your Preferences”
@@ -340,7 +340,7 @@ UPI ID: preethi@upi
 
 🔄 Reorder Button for previous meals
 
-✅ Outcomes
+✅ OUTCOMES
 
 
 
@@ -355,7 +355,12 @@ Delivered a polished prototype for an online food delivery app
 
 
 
-🙌 Acknowledgments
+🙌 ACKNOWLEDGMENTS
 
 
 Special thanks to the CODTECH Internship Program for this opportunity. Gratitude to all for their creativity, feedback, and collaboration throughout the project.
+
+
+
+
+#Made with PASSION
